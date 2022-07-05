@@ -113,15 +113,13 @@ padding: 0;
    text-align: center;
   }
  .im-title{
-   box-shadow: 5px 8px 15px 7px gray;
- 
- margin-top: 2rem;
- width: 40%;
- border-radius: 20px;
- justify-content: center; 
- background-color: rgb(199, 173, 173) ; 
- border-left: #c2e59c solid 9px;
- height: 550px;
+     box-shadow: 5px 8px 15px 7px gray;
+      margin-top: 2rem;
+      width: 40%;
+      border-radius: 20px;
+      
+      background-color: rgb(199, 173, 173) ; 
+      border-left: #c2e59c solid 9px;      
 
  }
 
