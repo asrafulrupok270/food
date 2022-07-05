@@ -119,13 +119,14 @@ padding: 0;
  justify-content: center; 
  background-color: rgb(199, 173, 173) ; 
  border-left: #c2e59c solid 9px;
- height: 520px;
+ height: 550px;
 
  }
 
  .width{
    padding: 35px;
    width: 80%;
+  
    
  }
  
