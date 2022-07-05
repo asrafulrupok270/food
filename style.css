@@ -47,6 +47,7 @@ body{
  }
  .section-two{
     display: flex;
+    justify-content: space-between;
    
     background-image: url(/eat-healthy-main/eat-healthy-main/images/shapes/7.png);
     background-repeat: no-repeat;
@@ -81,15 +82,19 @@ background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, F
 border-radius: 30px;
  }
  .title-two{
-    margin: 50px 110px;
-    padding: 50px 120px;
+   margin: 50px 50px 50px 200px;
+   padding: 50px 120px;
+   
    
  }
  .recipies{
    display: flex;
+   justify-content: space-around;
   text-align: center;
- width: 80%;
- margin-bottom: 100px;
+  width: 70%;
+ ;
+ 
+ margin: 0 auto;
  }
   
  
@@ -104,17 +109,18 @@ padding: 0;
  }
  .my-recipies p{
    text-align: center;
-  
- 
- }
+  }
  .im-title{
    box-shadow: 5px 8px 15px 7px gray;
- margin-left: 5rem;
+ 
  margin-top: 2rem;
+ width: 40%;
  border-radius: 20px;
  justify-content: center; 
  background-color: rgb(199, 173, 173) ; 
  border-left: #c2e59c solid 9px;
+ height: 550px;
+
  }
 
  .width{
@@ -127,6 +133,7 @@ padding: 0;
    color: blue;
    text-align: left;
    padding: 2rem;
+  
  }
  .im-title p{
    text-align: left;
