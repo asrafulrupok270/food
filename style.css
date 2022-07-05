@@ -47,8 +47,8 @@ body{
  }
  .section-two{
     display: flex;
-    justify-content: space-between;
- background-image: url(/Frame\ 57.jpg);
+    justify-content:  space-around;
+ background-image: url(Frame\ 57.jpg);
     background-repeat: no-repeat;
   
   
