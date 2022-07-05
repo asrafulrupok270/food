@@ -1,9 +1,9 @@
 .img-title img{
- width: 80%;
+ width: 90%;
 }
 .first-section{
     display: flex;
-    justify-content: space- space-evenly;
+    justify-content: space-around;
     margin: 0;
 }
 body{
@@ -80,6 +80,8 @@ body{
 background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 border-radius: 30px;
+text-transform: capitalize;
+font-weight: 700;
  }
  .title-two{
    margin: 50px 50px 50px 200px;
@@ -125,7 +127,7 @@ padding: 0;
 
  .width{
    padding: 35px;
-   width: 80%;
+   width: 60%;
   
    
  }
@@ -173,8 +175,4 @@ padding: 0;
    padding: 20px;
    margin: 30px;
  }
- .im-title img{
-   width: 280px;
-   border-radius: 5px;
-   
- }
+ 
