@@ -1,0 +1,87 @@
+.img-title img{
+ width: 80%;
+}
+.first-section{
+    display: flex;
+    justify-content: space- space-evenly;
+    margin: 0;
+}
+body{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.title h2{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: gray;
+    font-family: 900;
+ 
+}
+.title p{
+    color: gray;
+    font-weight: 500;
+}
+ 
+ span{
+    color:    orange;
+ }
+ .title button{
+    padding: 15px 28px;
+    margin: 25px 35px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+ }
+ .title{
+    margin-left: 40px;
+    padding: 40px;
+ }
+ .img-title{
+    margin :  40px;
+    padding: 50px;
+    
+ }
+ .section-two{
+    display: flex;
+   
+    background-image: url(/eat-healthy-main/eat-healthy-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+  
+  
+ }
+ .img-two img{
+    width: 140%; 
+    padding: 60px;
+ 
+ }
+ .title-two h2{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: rgba(57, 54, 54, 0.748);
+    margin: 20px 30px;
+
+ }
+ .title-two p{
+    font-size: 500;
+    text-transform: capitalize;
+    color:  gray;
+    margin: 20px 30px;
+    
+ }
+ .title-two button{
+    padding: 15px 28px;
+    margin: 20px 30px;
+    background: #c2e59c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius: 30px;
+ }
+ .title-two{
+    margin: 50px 110px;
+    padding: 50px 120px;
+   
+ }
