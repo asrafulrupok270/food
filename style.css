@@ -85,3 +85,83 @@ border-radius: 30px;
     padding: 50px 120px;
    
  }
+ .recipies{
+   display: flex;
+  text-align: center;
+ width: 80%;
+ margin-bottom: 100px;
+ }
+  
+ 
+ .my-recipies h2{
+text-align: center;
+text-transform: capitalize;
+font-size: 30px;
+color: gray;
+font-weight: 700;
+margin: 0;
+padding: 0;
+ }
+ .my-recipies p{
+   text-align: center;
+  
+ 
+ }
+ .im-title{
+   box-shadow: 5px 8px 15px 7px gray;
+ margin-left: 5rem;
+ margin-top: 2rem;
+ border-radius: 20px;
+ justify-content: center; 
+ background-color: rgb(199, 173, 173) ; 
+ border-left: #c2e59c solid 9px;
+ }
+
+ .width{
+   padding: 35px;
+   width: 80%;
+   
+ }
+ 
+ .im-title h2{
+   color: blue;
+   text-align: left;
+   padding: 2rem;
+ }
+ .im-title p{
+   text-align: left;
+   text-transform: capitalize;
+   padding: 2rem;
+ }
+    
+ footer{
+   font-size: 20px;
+   text-transform: capitalize;
+   text-align: center;
+   color: white;
+ }
+ .footer{
+   text-align: center;
+   text-transform: capitalize;
+   color: white;
+ }
+ .foter{
+   background-color: rgba(15, 15, 16, 0.865);
+ }
+ .social{
+   display: flex;
+   justify-content: space-evenly;
+ box-shadow: 10px 5px 8px 3px ;
+ margin: 30px 35px;
+ padding: 20px 28;
+   
+   
+ }
+ .social h5{
+   padding: 20px;
+   margin: 30px;
+ }
+ .social h1{
+   padding: 20px;
+   margin: 30px;
+ }
